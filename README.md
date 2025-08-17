@@ -19,8 +19,8 @@ No momento estou em transição de carreira iniciei essa jornada em 2022 cursand
 ## ⚡ Detalhes
 
 <div display="flex"><br>
-    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=lccavadinha&show_icons=true&theme=github_dark&langs_count=10" />
-       <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lccavadinha&theme=github_dark&layout=compact&langs_count=10" />
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=lccavadinha&show_icons=true&theme=github_dark&langs_count=10&cache_seconds=1800" />
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lccavadinha&theme=github_dark&layout=compact&langs_count=10" />
    </div>
 
 ## 💻 Contato
