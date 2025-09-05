@@ -1,27 +1,46 @@
 # Olá, meu nome é Luiz Carlos! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-No momento estou em transição de carreira iniciei essa jornada em 2022 cursando Ciência de Dados e atualmente estou me especializando como desenvolvedor Full Stack com Python sempre em constante evolução e buscando aprender mais a cada dia .Sou comprometido, pontual e trabalho bem em equipe. Além disso, sou apaixonado por tecnologia e games, tenho o objetivo de mudar de carreira e continuar meus estudos em Análise e Desenvolvimento de Sistemas visando sempre o crescimento pessoal e profissional.
+## 👨‍💻 Sobre mim
 
-
-
+- 🎓 Atualmente estou no **2º período de Análise e Desenvolvimento de Sistemas** pela **UNIPÊ**  
+- 💻 Estudando **Desenvolvimento Full-Stack** pela **Rocketseat**  
+- 🎮 Apaixonado por **tecnologia e games**  
+- 🚀 Em constante evolução e sempre em busca de novos aprendizados  
 
 ## 🔧 Tecnologias e ferramentas 
 
-<div display="flex">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="50" height="50"/>
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" width="50" height="50" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="50" height="50" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="45" height="45"/>
 </div>
+
+## 📘 Ferramentas em aprendizado
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45"/>
+</div>
+
+
 
 ## ⚡ Detalhes
 
-<div display="flex"><br>
-    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=lccavadinha&show_icons=true&theme=github_dark&langs_count=10&cache_seconds=1800" />
-    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lccavadinha&theme=github_dark&layout=compact&langs_count=10" />
-   </div>
+<div style="display: flex;"><br>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=lccavadinha&show_icons=true&theme=github_dark&cache_seconds=60&v=1" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lccavadinha&theme=github_dark&layout=compact&langs_count=10&cache_seconds=60&v=1" />
+</div>
+
 
 ## 💻 Contato
 
