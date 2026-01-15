@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Atualmente estou no **2º período de Análise e Desenvolvimento de Sistemas** pela **UNIPÊ**  
+- 🎓 Atualmente estou no **3º período de Análise e Desenvolvimento de Sistemas** pela **UNIPÊ**  
 - 💻 Estudando **Desenvolvimento Full-Stack** pela **Rocketseat**  
 - 🎮 Apaixonado por **tecnologia e games**  
 - 🚀 Em constante evolução e sempre em busca de novos aprendizados  
