@@ -1,62 +1,114 @@
-# Olá, meu nome é Luiz Carlos! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+# Luiz Carlos Souza Costa Cavadinha  
 
-## 👨‍💻 Sobre mim
+**Desenvolvedor Front-end | React | Next.js | TypeScript | APIs REST**
 
-- 🎓 Atualmente estou no **3º período de Análise e Desenvolvimento de Sistemas** pela **UNIPÊ**  
-- 💻 Estudando **Desenvolvimento Full-Stack** pela **Rocketseat**  
-- 🎮 Apaixonado por **tecnologia e games**  
-- 🚀 Em constante evolução e sempre em busca de novos aprendizados  
+---
 
-## 🔧 Tecnologias e ferramentas 
+## 🚀 Sobre mim
 
-<div style="display: flex; flex-wrap: wrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" width="50" height="50" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="50" height="50" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="45" height="45"/>
-</div>
+Sou Desenvolvedor Front-end Júnior com experiência prática na construção de interfaces previsíveis e integração com APIs REST, além de desenvolvimento full-stack utilizando Node.js, Express e MySQL.
 
-## 📘 Ferramentas em aprendizado
+Tenho vivência em:
+- Controle de estado e renderização dinâmica
+- Integração frontend ↔ backend
+- Arquitetura MVC
+- Scrum e versionamento com Git/GitLab
+- Construção de aplicações responsivas
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45"/>
-</div>
+Atualmente curso **Análise e Desenvolvimento de Sistemas – UNIPÊ (3º período)**.
 
+---
 
+## 🧠 Stack Técnica
 
-## ⚡ Detalhes
+### Front-end
+- React  
+- Next.js  
+- TypeScript  
+- JavaScript  
+- HTML5  
+- CSS3  
+- TailwindCSS  
+- Axios  
+- React Hook Form  
 
-<div style="display: flex;"><br>
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=lccavadinha&show_icons=true&theme=github_dark&cache_seconds=60&v=1" />
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lccavadinha&theme=github_dark&layout=compact&langs_count=10&cache_seconds=60&v=1" />
-</div>
+### Back-end
+- Node.js  
+- Express  
+- Sequelize (ORM)  
+- MySQL  
 
+### Conceitos e Práticas
+- APIs REST  
+- Arquitetura MVC  
+- CRUD completo  
+- Validação de dados  
+- Tratamento centralizado de erros  
+- Integração Full-Stack  
+- Scrum  
+- Git / GitHub / GitLab  
 
-## 💻 Contato
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-carlos-souza-costa-cavadinha-2646aa279/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@luiz_carlosfs/)
-<!--
-**LCCavadinha/LCCavadinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧩 Projetos em Destaque
 
-Here are some ideas to get you started:
+### 🎬 Sistema Full-Stack de Gerenciamento de Filmes  
+**Node.js | Express | Sequelize | MySQL | React | TypeScript**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aplicação full-stack com API REST estruturada em arquitetura MVC e frontend tipado.
+
+**Back-end**
+- CRUD completo com Express + Sequelize  
+- Modelagem com UUID como chave primária  
+- Middleware de validação de dados  
+- Tratamento centralizado de erros (AppError)  
+- Testes via Postman  
+
+**Front-end**
+- React + TypeScript  
+- Consumo de API com Axios  
+- Formulários validados com React Hook Form  
+- Gerenciamento de estado com useState e useEffect  
+- Sincronização interface ↔ banco em tempo real  
+
+🔗 GitHub:  
+https://github.com/LCCavadinha/Trabalho_filmes  
+
+---
+
+### ⚡ Pokédex – Next.js + TypeScript  
+
+Aplicação consumindo API pública (PokeAPI)
+
+- Consumo de API REST  
+- Busca dinâmica com filtro em tempo real  
+- Controle de estado e renderização condicional  
+- Layout responsivo com TailwindCSS  
+
+🔗 Deploy:  
+https://ws-frontend-fabrica25-2-chi.vercel.app/  
+
+🔗 GitHub:  
+https://github.com/LCCavadinha/wsFrontend-Fabrica25.2  
+
+---
+
+### 🛒 Quicklist – JavaScript (Estado → DOM)(EM DESENVOLVIMENTO)
+
+Aplicação focada em controle de estado manual com JavaScript puro.
+
+- Gerenciamento de estado com array de objetos  
+- Renderização dinâmica baseada em dados  
+- CRUD local  
+- Validação e feedback ao usuário  
+
+🔗 GitHub:  
+https://github.com/LCCavadinha/Rocketseat_projets/tree/desafio_lista_de_compras  
+
+---
+
+## 📫 Contato
+
+LinkedIn:  
+https://www.linkedin.com/in/luiz-carlos-souza-costa-cavadinha-2646aa279/  
+
