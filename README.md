@@ -22,31 +22,13 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas – UNIPÊ (3º perío
 ## 🧠 Stack Técnica
 
 ### Front-end
-- React  
-- Next.js  
-- TypeScript  
-- JavaScript  
-- HTML5  
-- CSS3  
-- TailwindCSS  
-- Axios  
-- React Hook Form  
+React | Next.js | TypeScript | JavaScript (ES6+) | HTML5 | CSS3 | TailwindCSS | Axios | React Hook Form
 
 ### Back-end
-- Node.js  
-- Express  
-- Sequelize (ORM)  
-- MySQL  
+Node.js | Express | Sequelize (ORM) | MySQL
 
 ### Conceitos e Práticas
-- APIs REST  
-- Arquitetura MVC  
-- CRUD completo  
-- Validação de dados  
-- Tratamento centralizado de erros  
-- Integração Full-Stack  
-- Scrum  
-- Git / GitHub / GitLab  
+APIs REST | Arquitetura MVC | Integração Full-Stack | Validação de Dados | Tratamento de Erros | Scrum | Git
 
 ---
 
